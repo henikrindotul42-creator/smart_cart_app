@@ -1,5 +1,4 @@
 # Wireframe
 
-https://www.figma.com/design/4lZNZOV5aEckTSqkKi1lMy/Untitled?node-id=0-1&m=dev&t=2k3qME3Rk90TLap4-1
-
+https://www.figma.com/design/4lZNZOV5aEckTSqkKi1lMy/Untitled?node-id=0-1&m=dev&t=khPcWyCnBJK3Ek4q-1
 
